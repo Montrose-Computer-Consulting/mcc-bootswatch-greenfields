@@ -1,0 +1,48 @@
+{
+  "name": "bootswatch-greenfields",
+  "homepage": "https://github.com/Montrose-Computer-Consulting/mcc-bootswatch-greenfields",
+  "authors": [
+    "Geoff Oslund <geoffreyoslund@gmail.com>"
+  ],
+  "description": "Distribution packages for Bootswatch themes. Just the ones ready to use with Bower.",
+  "main": [
+    "css/bootstrap.css",
+    "js/bootstrap.js",
+    "fonts/glyphicons-halflings-regular.eot",
+    "fonts/glyphicons-halflings-regular.svg",
+    "fonts/glyphicons-halflings-regular.ttf",
+    "fonts/glyphicons-halflings-regular.woff",
+    "fonts/glyphicons-halflings-regular.woff2"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.0",
+    "bootstrap-sass": "~3.3.5",
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "angular": "*"
+  },
+  "keywords": [
+    "mcc",
+    "greenfields"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "package.json",
+    "Gruntfile.js",
+    ".gitignore"
+  ],
+  "_release": "ecfd28de85",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "ecfd28de85cb6031926faffa640a1d13413673c9"
+  },
+  "_source": "git@github.com:Montrose-Computer-Consulting/mcc-bootswatch-greenfields.git",
+  "_target": "*",
+  "_originalSource": "git@github.com:Montrose-Computer-Consulting/mcc-bootswatch-greenfields.git"
+}
